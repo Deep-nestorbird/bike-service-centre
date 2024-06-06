@@ -1,9 +1,9 @@
 [project]
 name = "bike_service_centre"
 authors = [
-    { name = "Deep Prakash Srivastava  and Aman Agnihotri", email = "codingadda007@gmail.com"}
+    { name = "Deep Prakash Srivastava and Aman Agnihotri", email = "codingadda007@gmail.com"}
 ]
-description = "Bike Servce Centre develop by Deep Prakash SriAman Agnihotri"
+description = "Bike Service Centre"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]

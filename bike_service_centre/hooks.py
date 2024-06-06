@@ -1,7 +1,7 @@
 app_name = "bike_service_centre"
 app_title = "Bike Service Centre"
-app_publisher = "Deep Prakash Srivastava  and Aman Agnihotri"
-app_description = "Bike Servce Centre develop by Deep Prakash SriAman Agnihotri"
+app_publisher = "Deep Prakash Srivastava and Aman Agnihotri"
+app_description = "Bike Service Centre"
 app_email = "codingadda007@gmail.com"
 app_license = "mit"
 # required_apps = []
