@@ -1,0 +1,61 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2024-06-06 14:04:01.043440",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "service_booking_id",
+  "technician_id",
+  "report_details",
+  "service_date"
+ ],
+ "fields": [
+  {
+   "fieldname": "service_booking_id",
+   "fieldtype": "Link",
+   "label": "Service Booking ID",
+   "options": "Service_booking"
+  },
+  {
+   "fieldname": "technician_id",
+   "fieldtype": "Link",
+   "label": "Technician ID",
+   "options": "Service Technician"
+  },
+  {
+   "fieldname": "report_details",
+   "fieldtype": "Small Text",
+   "label": "Report Details"
+  },
+  {
+   "fieldname": "service_date",
+   "fieldtype": "Date",
+   "label": "Service Date"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2024-06-06 14:24:03.290547",
+ "modified_by": "Administrator",
+ "module": "Bike Service Centre",
+ "name": "Service Report",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}
