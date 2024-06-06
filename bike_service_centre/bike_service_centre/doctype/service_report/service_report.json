@@ -1,6 +1,7 @@
 {
  "actions": [],
  "allow_rename": 1,
+ "autoname": "format:{SR}-{#####}",
  "creation": "2024-06-06 14:04:01.043440",
  "doctype": "DocType",
  "engine": "InnoDB",
@@ -36,10 +37,11 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-06-06 14:24:03.290547",
+ "modified": "2024-06-06 15:55:17.357862",
  "modified_by": "Administrator",
  "module": "Bike Service Centre",
  "name": "Service Report",
+ "naming_rule": "Expression",
  "owner": "Administrator",
  "permissions": [
   {

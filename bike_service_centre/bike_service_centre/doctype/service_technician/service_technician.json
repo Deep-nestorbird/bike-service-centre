@@ -1,6 +1,7 @@
 {
  "actions": [],
  "allow_rename": 1,
+ "autoname": "format:{S-Tech}-{#####}",
  "creation": "2024-06-06 13:59:59.480111",
  "doctype": "DocType",
  "engine": "InnoDB",
@@ -28,10 +29,11 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-06-06 14:03:11.829857",
+ "modified": "2024-06-06 15:56:24.191069",
  "modified_by": "Administrator",
  "module": "Bike Service Centre",
  "name": "Service Technician",
+ "naming_rule": "Expression",
  "owner": "Administrator",
  "permissions": [
   {

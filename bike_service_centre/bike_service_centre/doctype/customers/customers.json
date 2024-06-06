@@ -1,7 +1,7 @@
 {
  "actions": [],
  "allow_rename": 1,
- "autoname": "field:name1",
+ "autoname": "format:{CUST}-{####}",
  "creation": "2024-06-06 10:18:44.457822",
  "doctype": "DocType",
  "engine": "InnoDB",
@@ -43,11 +43,11 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-06-06 12:23:29.780936",
+ "modified": "2024-06-06 15:47:23.407386",
  "modified_by": "Administrator",
  "module": "Bike Service Centre",
  "name": "Customers",
- "naming_rule": "By fieldname",
+ "naming_rule": "Expression",
  "owner": "Administrator",
  "permissions": [
   {
